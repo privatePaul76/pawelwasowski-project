@@ -1,2 +1,2 @@
 # pawelwasowski-project
-Mój pierwszy Git projekt
+My first Git Project
